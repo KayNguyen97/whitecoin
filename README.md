@@ -1,0 +1,2 @@
+# whitecoin
+node-whitecoin
